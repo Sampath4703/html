@@ -1,0 +1,16 @@
+<html> </html>
+<head>
+<title> Web page </title>
+<h1>  Famous in Kadapa </h1>
+</head>
+<body>
+<h1><a href="https://en.wikipedia.org/wiki/Gandikota">Gandikota</a></h1>
+<p><a href="https://en.wikipedia.org/wiki/Gandikota">Gandikota</a>Belonging to the 13th century, Gandikota Fort is one of the most important tourist attractions in Andhra Pradesh. The architecture is inspired by Vijayanagar style and Quli Qutb style. The fort is one of the largest in India. The fort is famous for the gorge. It is located in a scenic landscape with rich natural resources. Deep valleys and hills surrounding the fort, it remained almost invincible. The fort houses an expansive palace, temple and a mosque.
+</p>
+<h1>Ameen Peer Dargah</h1>
+<p>Ameen Peer Dargah was constructed by Sufi Saint Peerullah Hussaini in the year 1683. The Dargah is visited by people who follow various faiths and hence it stands as a symbol of harmony that crosses all man made barriers. It is believed that Peerullah Hussaini is a descendent of Mohammed, the Prophet. It is believed that a wish made by a visitor here is fulfilled. The shrine is in a serene location and offers peace of mind.
+
+</p>
+<h1>
+</body>
+</html>
